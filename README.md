@@ -32,5 +32,6 @@ Nếu báo lỗi, vui lòng copy lỗi lên google hoặc youtube xem hướng d
 
    ```bash
    tesseract --version
-  ```
+   ```
+   
 Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube để tìm giải pháp.
