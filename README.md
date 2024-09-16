@@ -6,6 +6,7 @@
   - [Cài đặt Tesseract](#cài-đặt-tesseract)
   - [Cài đặt FFmpeg](#cài-đặt-ffmpeg)
   - [Cài đặt ứng dụng DM EOP](#cài-đặt-ứng-dụng-dm-eop)
+- [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 
 ## Hướng dẫn cài đặt
 
@@ -52,3 +53,11 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
 
 Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube để tìm giải pháp.
   
+### Cài đặt ứng dụng DM EOP
+
+1. Tải xuống thư mục và giải nén:
+2. Sau khi giải nén, chạy file setupdmeop.bat
+3. Di chuyển ứng dụng ra ngoài desktop hoặc nơi muốn đặt và sử dụng
+
+   
+   
