@@ -10,7 +10,7 @@
 ## Hướng dẫn cài đặt
 
 ### Cài đặt Python
-
+Có nhiều cách để cài Python, có thể tải trong Microsoft Store hoặc xem hướng dẫn trên Youtube, hoặc theo hướng dẫn dưới đây:
 1. Truy cập trang chính thức của Python: [python.org](https://www.python.org/downloads/)
 2. Tải xuống phiên bản Python phù hợp với hệ điều hành của bạn.
 3. Chạy trình cài đặt và đảm bảo chọn tùy chọn "Add Python to PATH" trước khi nhấn "Install Now".
@@ -18,3 +18,19 @@
 
    ```bash
    python --version
+
+Nếu báo lỗi, vui lòng copy lỗi lên google hoặc youtube xem hướng dẫn
+
+### Cài đặt Tesseract
+
+1. Truy cập trang chính thức của Tesseract: [tesseract-ocr.github.io](https://tesseract-ocr.github.io/)
+2. Tải xuống trình cài đặt Tesseract cho Windows từ trang [UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki). Chọn phiên bản phù hợp với hệ điều hành của bạn.
+3. Chạy tệp cài đặt vừa tải xuống và làm theo hướng dẫn trên màn hình.
+4. Khi cài đặt xong, đảm bảo rằng thư mục chứa `tesseract.exe` đã được thêm vào biến môi trường PATH. Thông thường, thư mục này là `C:\Program Files\Tesseract-OCR` hoặc tương tự.
+   - Để thêm vào PATH, mở **Control Panel** > **System and Security** > **System** > **Advanced system settings** > **Environment Variables**. Trong phần **System variables**, tìm biến `Path`, chọn và nhấn **Edit**, sau đó thêm đường dẫn đến thư mục chứa `tesseract.exe`.
+5. Kiểm tra việc cài đặt bằng cách mở Command Prompt và chạy lệnh:
+
+   ```bash
+   tesseract --version
+  ```
+Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube để tìm giải pháp.
