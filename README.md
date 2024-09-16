@@ -19,7 +19,7 @@ Có nhiều cách để cài Python, có thể tải trong Microsoft Store hoặ
 
    ```bash
    python --version
-
+   ```
 Nếu báo lỗi, vui lòng copy lỗi lên google hoặc youtube xem hướng dẫn
 
 ### Cài đặt Tesseract
@@ -56,8 +56,12 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
 ### Cài đặt ứng dụng DM EOP
 
 1. Tải xuống thư mục và giải nén:
-2. Sau khi giải nén, chạy file setupdmeop.bat
+2. Sau khi giải nén, chạy file `setupdmeop.bat`
 3. Di chuyển ứng dụng ra ngoài desktop hoặc nơi muốn đặt và sử dụng
 
    
-   
+## Hướng dẫn sử dụng
+- Nhập thời gian chờ ngẫu nhiên (Mặc định là 30 giây đến 60 giây)
+- Nhập thông tin và ấn nút Start tương ứng
+- Lưu ý: Lần chạy đầu tiên có thể mất thời gian.
+- Tham gia vào cộng đồng để giao lưu và trao đổi: https://t.me/dmeop
