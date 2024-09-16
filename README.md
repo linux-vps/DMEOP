@@ -1,23 +1,20 @@
 # Ứng dụng hỗ trợ học tiếng Anh hiệu quả DM EOP
 
 ## Nội dung
-
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
-  - [Chuẩn bị](#chuẩn-bị)
+  - [Cài đặt Python](#cài-đặt-python)
+  - [Cài đặt Tesseract](#cài-đặt-tesseract)
+  - [Cài đặt FFmpeg](#cài-đặt-ffmpeg)
+  - [Cài đặt ứng dụng DM EOP](#cài-đặt-ứng-dụng-dm-eop)
 
 ## Hướng dẫn cài đặt
 
-### Chuẩn bị
+### Cài đặt Python
 
-1. **Cài đặt Python**
-   - Tham khảo [hướng dẫn cài đặt Python](https://www.python.org/downloads/).
+1. Truy cập trang chính thức của Python: [python.org](https://www.python.org/downloads/)
+2. Tải xuống phiên bản Python phù hợp với hệ điều hành của bạn.
+3. Chạy trình cài đặt và đảm bảo chọn tùy chọn "Add Python to PATH" trước khi nhấn "Install Now".
+4. Kiểm tra việc cài đặt bằng cách mở Command Prompt (Windows) hoặc Terminal (macOS/Linux) và chạy lệnh:
 
-2. **Cài đặt Tesseract**
-   - Tham khảo [hướng dẫn cài đặt Tesseract](https://github.com/tesseract-ocr/tesseract).
-
-3. **Cài đặt FFmpeg**
-   - Tham khảo [hướng dẫn cài đặt FFmpeg](https://ffmpeg.org/download.html).
-
-4. **Cài đặt ứng dụng DM EOP**
-   - Tham khảo [hướng dẫn cài đặt DM EOP](#hướng-dẫn-cài-đặt).
-
+   ```bash
+   python --version
