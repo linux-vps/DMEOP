@@ -14,7 +14,7 @@ from providers.whisper__manager import transcribe_audio
 import traceback
 # 17/09/2024
 # https://github.com/linux-vps
-# https://www.facebook.com/groups/1493850704586284
+# https://www.facebook.com/groups/370817769403735
 def insertScript(driver):
     # Chèn mã JavaScript để in giá trị của biến dgt ra console
     script = """
@@ -491,4 +491,4 @@ def normal(driver, randomFrom, randomTo):
 
 # 17/09/2024
 # https://github.com/linux-vps
-# https://www.facebook.com/groups/1493850704586284
+# https://www.facebook.com/groups/370817769403735
