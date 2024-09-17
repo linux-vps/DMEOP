@@ -7,8 +7,7 @@
   - [Cài đặt FFmpeg](#cài-đặt-ffmpeg)
   - [Cài đặt ứng dụng DM EOP](#cài-đặt-ứng-dụng-dm-eop)
 - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
-- Hoặc tham gia vào nhóm cộng đồng để xem video hướng dẫn ở phần ghim: https://www.facebook.com/groups/1493850704586284
-- [ĐM EOP](https://www.facebook.com/groups/1493850704586284).
+- Hoặc tham gia vào nhóm cộng đồng để xem video hướng dẫn ở phần ghim: [ĐM EOP](https://www.facebook.com/groups/1493850704586284).
 ## Hướng dẫn cài đặt
 
 
