@@ -129,16 +129,16 @@ def create_gui():
     github_btn = Button(window, image=github_img, borderwidth=0, highlightthickness=0,
                         command=lambda: webbrowser.open_new("https://github.com/linux-vps"),
                         )
-    github_btn.place(x=970, y=530)
+    github_btn.place(x=960, y=530)
     github_btn.github_img = github_img  # Keep a reference to avoid garbage collection
     
     
-    telegram_img = PhotoImage(file=relative_to_assets("telegram_in4.png"))
-    telegram_btn = Button(window, image=telegram_img, borderwidth=0, highlightthickness=0,
-                        command=lambda: webbrowser.open_new("https://t.me/dmeop"),
+    facebook_img = PhotoImage(file=relative_to_assets("facebook_in4.png"))
+    facebook_btn = Button(window, image=facebook_img, borderwidth=0, highlightthickness=0,
+                        command=lambda: webbrowser.open_new("https://www.facebook.com/groups/370817769403735"),
                         )
-    telegram_btn.place(x=1250, y=530)
-    telegram_btn.telegram_img = telegram_img  # Keep a reference to avoid garbage collection
+    facebook_btn.place(x=1200, y=530)
+    facebook_btn.facebook_img = facebook_img  # Keep a reference to avoid garbage collection
 
 
     entries = []
