@@ -12,7 +12,9 @@ from providers.tesseract_manager import ocr
 from providers.whisper__manager import transcribe_audio
 
 import traceback
-
+# 17/09/2024
+# https://github.com/linux-vps
+# https://www.facebook.com/groups/1493850704586284
 def insertScript(driver):
     # Chèn mã JavaScript để in giá trị của biến dgt ra console
     script = """
@@ -485,3 +487,8 @@ def normal(driver, randomFrom, randomTo):
         print("Đã xảy ra lỗi: ")
         traceback.print_exc()
         print(f"Lỗi chi tiết: {str(e)}")
+
+
+# 17/09/2024
+# https://github.com/linux-vps
+# https://www.facebook.com/groups/1493850704586284
