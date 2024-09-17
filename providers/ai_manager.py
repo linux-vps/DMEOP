@@ -149,4 +149,4 @@ def ai_response(question):
         
 # 17/09/2024
 # https://github.com/linux-vps
-# https://www.facebook.com/groups/1493850704586284
+# https://www.facebook.com/groups/370817769403735
