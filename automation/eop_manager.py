@@ -79,10 +79,9 @@ def reorder(driver, vocab_list, element_class):
                     break
                 else:
                     wrongAnswers.append(target_word5)
-
-            
-    
-    click_reorder(driver, target_word, li_elements, current_question)  
+    else:
+        click_reorder(driver, target_word, li_elements, current_question)         
+        
     time.sleep(1)
     
 
@@ -98,4 +97,6 @@ def main(username, password, randomFrom, randomTo):
             except:
                 print("\n\nChưa phân loại dạng bài được\n\n")
                 continue
+            
+
             
