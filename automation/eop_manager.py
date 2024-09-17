@@ -82,7 +82,7 @@ def reorder(driver, vocab_list, element_class):
 
             
     
-        
+    click_reorder(driver, target_word, li_elements, current_question)  
     time.sleep(1)
     
 
