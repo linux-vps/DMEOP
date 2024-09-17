@@ -57,7 +57,7 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
 - Nhập thời gian chờ ngẫu nhiên (Mặc định là 30 giây đến 60 giây)
 - Nhập thông tin và ấn nút Start tương ứng
 - Lưu ý: Lần chạy đầu tiên sẽ mất chút thời gian.
-- Tham gia vào cộng đồng để giao lưu và trao đổi: https://t.me/dmeop
+- Tham gia vào cộng đồng để giao lưu và trao đổi: [ĐM EOP](https://www.facebook.com/groups/370817769403735).
 
 
 ## Về dự án này:
