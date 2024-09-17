@@ -3,6 +3,7 @@
 - Không phụ thuộc vào cấu trúc câu hỏi, miễn còn ra đáp án là còn dùng được.
 
 ## Nội dung
+- Có khá nhiều tài liệu hướng dẫn cài Python bằng tiếng Việt nên mình sẽ không hướng dẫn ở đây. Vui lòng tự tìm hiểu trên youtube.
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
   - [Cài đặt Tesseract](#cài-đặt-tesseract)
   - [Cài đặt FFmpeg](#cài-đặt-ffmpeg)
