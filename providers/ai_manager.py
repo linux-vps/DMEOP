@@ -17,17 +17,19 @@ def ask_ai(task_type, question, audio_type=None, wrongAnswers=None):
                 if "whisperResponsed" in question:
                     addTextPrompt = "If the resulting word has synonyms, include both and separate them with ' / '."
         if task_type == "pronunciation":
-            prompt = f"""The word must use all listed characters: {question}
+            prompt = f"""
             Rearrange the characters to match the letters created from the phonetic transcription. neither redundant nor lacking.
             Only answer the target word. (not Output: ...)
             {addTextPrompt}
             Avoid repeating the following wrong answers {wrongAnswers}
 
-            input: GRAPHICS PROCESSING UNIT
-            output: GRAPHICS PROCESSING UNIT 
+            input: /weə(r) aʊt/
+            W, , A, E, T, O, R, U
+            output: WEAR OUT
 
-            input: HEAD OFFICE HEADQUARTERS
-            output: HEAD OFFICE / HEADQUARTERS
+            input: /ˈsiːlənt/
+            A, A, E, L, N, S, T 
+            output: SEALANT 
 
             input: {question}
             output:
@@ -144,3 +146,7 @@ def ai_response(question):
     except Exception as e:
         print(f"Error in ai_response function: {str(e)}")
         return None
+        
+# 17/09/2024
+# https://github.com/linux-vps
+# https://www.facebook.com/groups/1493850704586284
