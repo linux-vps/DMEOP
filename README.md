@@ -2,7 +2,6 @@
 
 ## Nội dung
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
-  - [Cài đặt Python](#cài-đặt-python)
   - [Cài đặt Tesseract](#cài-đặt-tesseract)
   - [Cài đặt FFmpeg](#cài-đặt-ffmpeg)
   - [Cài đặt ứng dụng DM EOP](#cài-đặt-ứng-dụng-dm-eop)
@@ -10,17 +9,6 @@
 
 ## Hướng dẫn cài đặt
 
-### Cài đặt Python
-Có nhiều cách để cài Python, có thể tải trong Microsoft Store hoặc xem hướng dẫn trên Youtube, hoặc theo hướng dẫn dưới đây:
-1. Truy cập trang chính thức của Python: [python.org](https://www.python.org/downloads/)
-2. Tải xuống phiên bản Python phù hợp với hệ điều hành của bạn.
-3. Chạy trình cài đặt và đảm bảo chọn tùy chọn "Add Python to PATH" trước khi nhấn "Install Now".
-4. Kiểm tra việc cài đặt bằng cách mở Command Prompt (Windows) hoặc Terminal (macOS/Linux) và chạy lệnh:
-
-   ```bash
-   python --version
-   ```
-Nếu báo lỗi, vui lòng copy lỗi lên google hoặc youtube xem hướng dẫn
 
 ### Cài đặt Tesseract
 
@@ -57,13 +45,12 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
   
 ### Cài đặt ứng dụng DM EOP
 
-1. Tải xuống thư mục và giải nén:
-2. Sau khi giải nén, chạy file `setupdmeop.bat`
+1. Tải xuống thư mục và giải nén
 3. Di chuyển ứng dụng ra ngoài desktop hoặc nơi muốn đặt và sử dụng
 
    
 ## Hướng dẫn sử dụng
 - Nhập thời gian chờ ngẫu nhiên (Mặc định là 30 giây đến 60 giây)
 - Nhập thông tin và ấn nút Start tương ứng
-- Lưu ý: Lần chạy đầu tiên có thể mất thời gian.
+- Lưu ý: Lần chạy đầu tiên sẽ mất chút thời gian.
 - Tham gia vào cộng đồng để giao lưu và trao đổi: https://t.me/dmeop
