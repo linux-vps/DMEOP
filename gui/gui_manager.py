@@ -154,4 +154,4 @@ def create_gui():
     window.resizable(False, False)
     window.mainloop()
 
-create_gui()
+
