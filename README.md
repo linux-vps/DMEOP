@@ -47,7 +47,7 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
   
 ### Cài đặt ứng dụng DM EOP
 
-1. Tải xuống thư mục và giải nén [DMEOP.exe](https://www.fshare.vn/file/5WUALT5WWHGK) 
+1. Tải xuống thư mục và giải nén [DMEOP.exe](https://www.fshare.vn/file/JFAVBNZQGSC4) 
 2. Di chuyển ứng dụng ra ngoài desktop hoặc nơi muốn đặt và sử dụng
 
    
