@@ -1,6 +1,7 @@
 # Ứng dụng hỗ trợ học tiếng Anh hiệu quả DM EOP
 - Source công khai, tuy khá đầy đủ nhưng anh em cần cải tiến nó ( tham gia [ĐM EOP](https://www.facebook.com/groups/370817769403735).)
 - Không phụ thuộc vào cấu trúc câu hỏi, miễn còn ra đáp án là còn dùng được.
+- Theo dõi kênh này để cập nhật liên tục
 
 ## Nội dung
 - Có khá nhiều tài liệu hướng dẫn cài Python bằng tiếng Việt nên mình sẽ không hướng dẫn ở đây. Vui lòng tự tìm hiểu trên youtube.
