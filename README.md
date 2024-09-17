@@ -1,5 +1,5 @@
 # Ứng dụng hỗ trợ học tiếng Anh hiệu quả DM EOP
-- Source công khai, tuy khá đầy đủ nhưng anh em cần cải tiến nó ( tham gia [ĐM EOP](https://www.facebook.com/groups/1493850704586284).)
+- Source công khai, tuy khá đầy đủ nhưng anh em cần cải tiến nó ( tham gia [ĐM EOP](https://www.facebook.com/groups/370817769403735).)
 - Không phụ thuộc vào cấu trúc câu hỏi, miễn còn ra đáp án là còn dùng được.
 
 ## Nội dung
@@ -8,7 +8,7 @@
   - [Cài đặt FFmpeg](#cài-đặt-ffmpeg)
   - [Cài đặt ứng dụng DM EOP](#cài-đặt-ứng-dụng-dm-eop)
 - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
-- Hoặc tham gia vào nhóm cộng đồng để xem video hướng dẫn ở phần ghim: [ĐM EOP](https://www.facebook.com/groups/1493850704586284).
+- Hoặc tham gia vào nhóm cộng đồng để xem video hướng dẫn ở phần ghim: [ĐM EOP](https://www.facebook.com/groups/370817769403735).
 ## Hướng dẫn cài đặt
 
 
@@ -56,3 +56,10 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
 - Nhập thông tin và ấn nút Start tương ứng
 - Lưu ý: Lần chạy đầu tiên sẽ mất chút thời gian.
 - Tham gia vào cộng đồng để giao lưu và trao đổi: https://t.me/dmeop
+
+
+## Về dự án này:
+- Sử dụng Selenium với Python để mô phỏng thao tác khi làm bài bằng tay.
+- Đã sử dụng qua 3 kì, vừa trải nghiệm vừa cải tiến.
+- Khá nặng, 1GB, sẽ nhẹ hơn nếu anh em nào cải tiến thành sử dụng API với JS, tuy nhiên nếu dùng JS thì cần triển khai server OCR vì phải phụ thuộc vào traineddata, tuy chạy được với thư viện tesseract.js nhưng hiệu quả nhất vơi Tesseract cài trên hệ điều hành.
+- Mang tính chất học tập và nghiên cứu. có thể trao đổi tại group [ĐM EOP](https://www.facebook.com/groups/370817769403735).
