@@ -35,7 +35,7 @@ Nếu báo lỗi, vui lòng copy lỗi lên google hoặc youtube xem hướng d
    ```
 5. Tải file dữ liệu dùng cho font chữ ( đã trained riêng cho eop ): [eng.zip](https://github.com/user-attachments/files/17023612/eng.zip)
 6. Giải nén `eng.zip`, copy file `eng.traineddata` vào thư mục `C:\Program Files\Tesseract-OCR\tessdata`
-7. 
+
 Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube để tìm giải pháp.
 
 
