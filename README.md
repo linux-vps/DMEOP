@@ -63,3 +63,6 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
 - Đã sử dụng qua 3 kì, vừa trải nghiệm vừa cải tiến.
 - Khá nặng, 1GB, sẽ nhẹ hơn nếu anh em nào cải tiến thành sử dụng API với JS, tuy nhiên nếu dùng JS thì cần triển khai server OCR vì phải phụ thuộc vào traineddata, tuy chạy được với thư viện tesseract.js nhưng hiệu quả nhất vơi Tesseract cài trên hệ điều hành.
 - Mang tính chất học tập và nghiên cứu. có thể trao đổi tại group [ĐM EOP](https://www.facebook.com/groups/370817769403735).
+
+## Thư viện tham khảo:
+- https://github.com/xtekky/gpt4free
