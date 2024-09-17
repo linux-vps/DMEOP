@@ -1,6 +1,6 @@
 # Ứng dụng hỗ trợ học tiếng Anh hiệu quả DM EOP
-Source công khai, tuy khá đầy đủ nhưng anh em cần cải tiến nó ( tham gia - Hoặc tham gia vào nhóm cộng đồng để xem video hướng dẫn ở phần ghim: [ĐM EOP](https://www.facebook.com/groups/1493850704586284).)
-Không phụ thuộc vào cấu trúc câu hỏi, miễn còn ra đáp án là còn dùng được.
+- Source công khai, tuy khá đầy đủ nhưng anh em cần cải tiến nó ( tham gia [ĐM EOP](https://www.facebook.com/groups/1493850704586284).)
+- Không phụ thuộc vào cấu trúc câu hỏi, miễn còn ra đáp án là còn dùng được.
 
 ## Nội dung
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
