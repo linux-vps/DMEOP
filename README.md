@@ -59,6 +59,23 @@ Nếu gặp vấn đề, hãy tìm kiếm lỗi trên Google hoặc YouTube đ�
 - Lưu ý: Lần chạy đầu tiên sẽ mất chút thời gian.
 - Tham gia vào cộng đồng để giao lưu và trao đổi: [ĐM EOP](https://www.facebook.com/groups/370817769403735).
 
+## Một số vấn đề anh em quan tâm:
+
+Ứng dụng thực hiện mô phỏng thao tác khi làm bài của người dùng (selenium), vậy nên có thể hiểu đơn giản, nó là người dùng ảo được lập trình để làm tự động. Không can thêm sửa xóa cấu trúc của website => không bị cảnh báo vi phạm.
+
+Lý do cài đặt thêm 2 thư viện nữa là:
+1. Tesseract .exe chạy trên náy tính cá nhân, giúp đọc kết quả có hiệu năng tốt nhất, không tốn tài nguyên mạng. Đặc biệt, nó nhận file traineddata mà mình train cẩn thận từ font chứ phần đáp án.
+2. ffmpeg, nó giúp chuyển phần âm thanh từ bài nghe và sắp xếp từ vựng thành chữ.
+
+Sau khi cài xong. Có thể sẽ xuất hiện cảnh báo của window ứng dụng không rõ nguồn gốc, mọi người có thể tạm tắt window defender trước khi chạy hoặc cho phép ứng dụng hoạt động. 
+
+Nên cài 2 thư viện bên ngoài trước khi chạy ứng dụng. Có thể sẽ cần khởi động lại máy tính.
+
+Source code kèm hướng dẫn: https://github.com/linux-vps/DMEOP
+
+File ứng dụng exe: https://drive.google.com/file/d/1yOORhyZN7veO87kSA3VU-GGPr3Y0pCfF/view?usp=sharing
+
+Group cộng đồng hỗ trợ: https://www.facebook.com/groups/370817769403735
 
 ## Về dự án này:
 - Sử dụng Selenium với Python để mô phỏng thao tác khi làm bài bằng tay.
