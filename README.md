@@ -4,7 +4,7 @@
 - Theo dõi kênh này để cập nhật liên tục
 
 ## Nội dung
-- Có khá nhiều tài liệu hướng dẫn cài Python bằng tiếng Việt nên mình sẽ không hướng dẫn ở đây. Vui lòng tự tìm hiểu trên youtube.
+- Nếu muốn chạy code thì phải cài thêm Python, nếu chỉ chạy file .exe thì chỉ cần làm theo hướng dẫn.
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
   - [Cài đặt Tesseract](#cài-đặt-tesseract)
   - [Cài đặt FFmpeg](#cài-đặt-ffmpeg)
